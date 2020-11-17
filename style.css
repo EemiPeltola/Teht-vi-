@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+} 
+ul{
+  list-style:none;
+
+}
+
+header{
+  background:#f8e7fd;
+  padding:15px;
+  display:block;
+
+}
+
+.merkintä{
+   display: block;
+   width: 100%;
+   padding: 15px 20px;
+   border: 0;
+   background: rgb(51, 44, 44)
+    color: white;
+     border: 2px solid black;
+    
+}
+
+  {
+    color: white;
+     border: 2px solid black;
+      background-color: marine blue;
+  
+
+    font-size: 120%;
+  }
